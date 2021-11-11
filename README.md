@@ -1,6 +1,11 @@
-## Your Name
+## Sarah Dousse
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what excites you about tech.
+I’m a creative thinker and future junior software developer, opening communication through illustrations and my newly acquired coding skills. I use my drawings to engage the emotions and code to connect with people. I am looking for impactful projects where my artistic mind and desire to learn can make a difference.
+
+Some people say I am a dreamer, but I am more of an out of the box thinker. Looking at a problem from a different perspective helps me come up with unusual solutions. The most unusual one so far was that once I realised my job as a freelance illustrator wasn’t satisfying anymore, I started learning to code. First, just by myself, studiously following online courses, then I discovered pair-programming, and I was captivated. It is such a great way to learn and an excellent way to meet new people.
+After a few months of coding, I’ve learnt that I shouldn’t be afraid to fail as it is just part of the process. And yes, for an artist with a bit of imposter syndrome, this was a huge step.
+
+Now I introduce myself as an aspiring junior developer who likes to doodle as a hobby. I will be joining the November cohort at Makers Academy, an intense software development bootcamp in London.
 
 ## Projects
 
@@ -11,20 +16,25 @@ A sentence about who and what you are. Then a sentence about what you've achieve
 
 ## Work Experience
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sarah Dousse ltd** (April 2017 to Present)  
+_Freelance Illustrator / Art Director_
 
-- Any experience, including roles and responsibilities and results achived in bullet point format.
+- Any experience, including roles and responsibilities and results archived in bullet point format.
 
-**Company Name** (start-date to end-date)  
-_Your job title_
+**Sarah And The Robins** (November 2018 to Present)  
+_Craftman / Seller_
+
+- Any experience, including roles and responsibilities and results archived in bullet point format.
+
+**Geometry Global** (August 2014 to March 2017)  
+_Illustrator / Visualiser_
 
 - Any experience relevent to software development
 
-## Skills
+## Rapid Prototyping:
 
-Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.
+(Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
+(Using a STAR example Paragraph) Consider the questions below.)
 
 -STAR
 -What was the situation/task? (ST)
@@ -42,7 +52,7 @@ Consider skills relevent to software development. Then consider your best skills
 - Achievements
 - Evidence (STAR)
 
-#### Another Skill
+#### Team Management
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
 
@@ -50,6 +60,8 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - I contributed to the growth of X while doing Y (job, or otherwise)
 - I built this, made this, broke this, fixed this, etc.
 - A link to some on-line evidence (blogs, videos, articles, etc.)
+
+#### Creative Mind
 
 ## Education
 
@@ -62,16 +74,24 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### Ravensbourne University (September 2017 to September 2018)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- MA Communication Design
+- Distinction Award
+- Basic Electronics and coding knowledge
+- Rapid Prototyping
+- Interactive projects involving, projection mapping, Unity , 3D printing
+- Art Direction and Team management
+- Postgraduate representative
 
-#### Any other qualifications
+#### Ceruleum - School Of Visual Arts (August 2011 - July 2014)
 
-That in some arguable way make you a better software developer or well-rounded person
+- BA Illustration and Comics (Hons)
+- Character Design
+- Editorial Cartooning
+- Anatomy
+- Realistic Painting
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+Snowboard enthusiast, mindful dog-sitter, aspiring baker, swiss chocolate appreciator, occasional gamer
