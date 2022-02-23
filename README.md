@@ -1,78 +1,96 @@
 ## Sarah Dousse
 
-I’m a creative thinker and future junior software developer, opening communication through illustrations and my newly acquired coding skills. I use my drawings to engage the emotions and code to connect with people. I am looking for impactful projects where my artistic mind and desire to learn can make a difference.
+I'm a junior software developer and creative thinker, opening communication through my newly acquired coding skills. I code to connect with people, and I'm looking for impactful projects where my artistic mind and desire to learn can make a difference.
 
-Some people say I am a dreamer, but I am more of an out of the box thinker. Looking at a problem from a different perspective helps me come up with unusual solutions. The most unusual one so far was that once I realised my job as a freelance illustrator wasn’t satisfying anymore, I started learning to code. First, just by myself, studiously following online courses, then I discovered pair-programming, and I was captivated. It is such a great way to learn and an excellent way to meet new people.
-After a few months of coding, I’ve learnt that I shouldn’t be afraid to fail as it is just part of the process. And yes, for an artist with a bit of imposter syndrome, this was a huge step.
-
-Now I introduce myself as an aspiring junior developer who likes to doodle as a hobby. I will be joining the November cohort at Makers Academy, an intense software development bootcamp in London.
+I am currently consolidating my Ruby/Rails/Javascript and learning Golang and Python for my personal projects, so I'll share them when I've built something new!
 
 ## Projects
 
-| Name                         | Description       | Tech/tools        |
-| ---------------------------- | ----------------- | ----------------- |
-| **Final project**            | A webapp to do x. | React, Jest, etc. |
-| **Something else worked on** | A webapp to do y. | Ruby              |
+| Name                                                                     | Description    | Tech/tools                                | additional links                                             |
+| ------------------------------------------------------------------------ | -------------- | ----------------------------------------- | ------------------------------------------------------------ |
+| [Acebook on-the-rails](https://github.com/s-dousse/acebook-on-the-rails) | facebook clone | Ruby/Rails/Postgres/Rspec/Capybara/Heroku |
+| [Devote](https://github.com/s-dousse/devote_frontend)                    | final project  | Ruby/Rails/Postgres/React                 | [devote_backend](https://github.com/s-dousse/devote_backend) |
+| [Chitter Challenge](https://github.com/s-dousse/chitter-challenge)       | twitter clone  | Ruby/Rspec/Postgres/Sinatra               |
+| [Bowling Challenge](https://github.com/s-dousse/bowling-challenge_JS)    | TDD exercise   | JavaScript/Jest                           |
+| [Thermostat](https://github.com/s-dousse/Thermostat_JSapp)               | TDD exercise   | JavaScript/Jest                           |
+| [Bank tech test](https://github.com/s-dousse/Bank_tech_test)             | 1st tech test  | Ruby/Rspec                                |
 
 ## Work Experience
 
-**Sarah Dousse ltd** (April 2017 to Present)  
-_Freelance Illustrator / Art Director_
+**Freelance Illustrator / Art Director** (April 2017 to April 2022)  
+_Sarah Dousse ltd_
 
-- Any experience, including roles and responsibilities and results archived in bullet point format.
+- B2B and B2C
+- work under pressure with tight deadlines
+- multitasking and managing several projects simultaneously
+- attention to details
+- knack for finding solutions
+- great presentation/pitching skills
+- ability to adapt and learn new skills on the go
+- team building skills / calm and thoughtful attitude
 
-**Sarah And The Robins** (November 2018 to Present)  
-_Craftman / Seller_
+don't just take my word for it: hear it from [them](https://www.linkedin.com/in/sarahdousse/details/recommendations/?detailScreenTabIndex=0)
 
-- Any experience, including roles and responsibilities and results archived in bullet point format.
+**Craftman / Sellers** (November 2018 to Present)  
+_Sarah And The Robin on Etsy_
 
-**Geometry Global** (August 2014 to March 2017)  
-_Illustrator / Visualiser_
+- attention to detail
+- unlimited creativity
 
-- Any experience relevent to software development
+**Illustrator / Visualiser** (August 2014 to March 2017)  
+_Geometry Global (WPP)_
 
-## Rapid Prototyping:
+I've worked for advertising companies for nearly three years at Geometry (part of WPP), delivering high-quality visuals and artwork.
 
-(Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
-(Using a STAR example Paragraph) Consider the questions below.)
+- Creating computer and traditional black and white line drawings
 
--STAR
--What was the situation/task? (ST)
+- Boosting projects/ideas by providing solid visual supports for Clients' presentations or guidance for Designers.
 
--How was the skill used?
+- Working as part of a team with Art Directors, Copywriters and Designers.
 
--What did you do? (action)
+- Quick hand-drawn illustrations to rapidly interpret ideas during briefings/brainstorming.
 
--What was the result?
+During the visualisation process, I can lead by proposing simple solutions to improve the visual impact of the Art Directors' scamps.
 
+I also acquired experience in storyboarding, packaging and brand design (icons), and I have worked on a wide range of clients.
 
-#### This Skill
+## Skills
 
-- Experience
-- Achievements
-- Evidence (STAR)
+Over the four months at Makers, I faced quite a handful of challenges, from debugging my own or someone else's code, setting up a project from scratch, choosing a library, to finding the right resources. All this was and still is very new to me, but thank's to my previous work experience as an Illustrator / Art director (in-house and freelance), I have carved out a few skills that help me get through the Bootcamp and get the best of start for my career in software development.
 
-#### Team Management
+**Knack for solving problems:** <br />
+As a freelancer, I developed a sharp eye to spot upcoming problems before they happen. Usually, it had to do with tight deadlines and a not so elastic budget. But my goal was to deliver the best quality within the limit of a project. It usually comes to decide what is 'essential' and 'nice to implement at some point'.
+I take particular care in planning my coding projects. It can be a neat miro when working in groups to a doodle if it's a personal project, but it helps me narrow down the future edge cases, keep a clear head and break down my tasks into smaller tasks.
 
-Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed (again use STAR for this)
+**Learning new skills to fit a project best:** <br />
+I'd love it when a client would trust me to create something special for their project even though the style they were looking for wasn't in my portfolio. That part of the exploration at the beginning of the project is my favourite.
 
-- I achieved A during my work at B (job, or otherwise)
-- I contributed to the growth of X while doing Y (job, or otherwise)
-- I built this, made this, broke this, fixed this, etc.
-- A link to some on-line evidence (blogs, videos, articles, etc.)
+**Thoughtful and Mindful:** <br />
+As a team player, I know that everyone is happy with their part and have a good overview of the project. I believe there is no concern too small for a quick catch up. At Makers, we learnt to run stand-up and retrospectives and develop an agile workflow. This helped our communication within the team and helped us reach our 'stretched goals' tasks in the end.
 
-#### Creative Mind
+#### Creative Mind ? TODO
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
-- Use short descriptions of what you did and a skill you used. (Similar to format from the 'Work Experience' section above)
-- e.g Frequently used paring in order to problemsolve effeciently, requiring teamwork and communication.
-- you might also mention aspects some other skills/knowledge listed below: 
-- OOP, TDD, MVC, DDD
-- Agile/XP
-- Ruby, Rails, JavaScript
-- RSpec, Jasmine
+#### Makers Academy - Hybrid cohort (October 2021 - February 2022)
+
+I enrolled on a highly selective 12 week, full-time program (preceded by a four-week pre-course) to launch my career as a developer.
+
+- independent and self-directed learning
+- TDD development
+- Agile workflow
+- Pair Programming
+- code review (fellow cohort devs and coaches)
+- run stands-up and retrospectives
+- mentor/mentee support
+<p>
+  <div>Languages: Ruby, Javascript</div>
+  <div>Testing Tools: Rspec, Jest</div>
+  <div>Database: Postgres</div>
+  <div>other technologies and frameworks: Sinatra, Capybara, Rails, React, Git</div>
+</p>
+
+<br/>
 
 #### Ravensbourne University (September 2017 to September 2018)
 
@@ -80,7 +98,7 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 - Distinction Award
 - Basic Electronics and coding knowledge
 - Rapid Prototyping
-- Interactive projects involving, projection mapping, Unity , 3D printing
+- Interactive projects involving, projection mapping, Unity, 3D printing
 - Art Direction and Team management
 - Postgraduate representative
 
