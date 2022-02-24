@@ -68,8 +68,6 @@ I'd love it when a client would trust me to create something special for their p
 **Thoughtful and Mindful:** <br />
 As a team player, I know that everyone is happy with their part and have a good overview of the project. I believe there is no concern too small for a quick catch up. At Makers, we learnt to run stand-up and retrospectives and develop an agile workflow. This helped our communication within the team and helped us reach our 'stretched goals' tasks in the end.
 
-#### Creative Mind ? TODO
-
 ## Education
 
 #### Makers Academy - Hybrid cohort (October 2021 - February 2022)
